@@ -1,2 +1,2 @@
 # dupfinder
-Finds duplicate files in a given directory
+Finds duplicate files in a given directory.
